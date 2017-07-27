@@ -18,3 +18,6 @@ sandbox/build/scripts/sandbox
 sandbox/build/distributions/sandbox.tar
 sandbox/build/scripts/sandbox.bat
 sandbox/build/distributions/sandbox.zip
+sandbox/build/libs/sandbox.jar
+.idea/workspace.xml
+.idea/misc.xml
